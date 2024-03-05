@@ -29,7 +29,7 @@ show.py——可视化脚本
 
 
 
-注意：此代码为李杰(2973137145@qq.com)原创，未经本人允许不准用于其他地方，暂时只用于论文审查使用
+注意：此代码为李杰(2973137145@qq.com)原创，未经本人允许不准用于其他地方，暂时只用于论文审查使用, project.rar文件为代码文件，需要输入解压密码才能解压，需要采用WinRAR软件进行解压，其他解压软件可能解压失败
 
 
 Instructions:
@@ -62,7 +62,7 @@ Project Execution Notes:
 Please ensure the installation of external libraries as specified in requirement.txt.
 
 Note: This code is original work by Jie Li (2973137145@qq.com). Use for purposes other than academic review without the 
-author's permission is prohibited.
+author's permission is prohibited. The project.rar file is a code file, you need to enter the decompression password to decompress, you need to use WinRAR software to decompress, other decompression software may fail to decompress
 
 
 
