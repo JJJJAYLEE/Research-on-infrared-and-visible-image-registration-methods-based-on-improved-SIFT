@@ -1,5 +1,5 @@
-# Research-on-infrared-and-visible-image-registration-methods-based-on-improved-SIFT
-An improved SIFT image registration method for infrared and visible images
+# Infrared and Visible light image Registration Research Based on the Combination of Phase Consistency and Edge Extreme Points with SIFT AlgorithmT
+Infrared and Visible light image Registration Research Based on the Combination of Phase Consistency and Edge Extreme Points with SIFT Algorithm
 
 说明：
 main.py脚本为主脚本，运行main.py脚本时,输入参数--des_way 2 表示采用pytorch张量形式并用cuda计算，可以加快计算速度，强烈建议采用。
