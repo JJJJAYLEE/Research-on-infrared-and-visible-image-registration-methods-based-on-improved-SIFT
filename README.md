@@ -1,4 +1,4 @@
-# Infrared and Visible light image Registration Research Based on the Combination of Phase Consistency and Edge Extreme Points with SIFT AlgorithmT
+# Infrared and Visible light image Registration Research Based on the Combination of Phase Consistency and Edge Extreme Points with SIFT Algorithm
 Infrared and Visible light image Registration Research Based on the Combination of Phase Consistency and Edge Extreme Points with SIFT Algorithm
 
 说明：
